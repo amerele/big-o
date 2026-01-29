@@ -94,7 +94,7 @@ function exemplo3() {
 
 ## ⏬ Outras notações comuns
 
-### ➤ **O(log n)**
+### ➤ **O(log n)** 👏
 
 ```md
 OBS:
@@ -108,7 +108,7 @@ OBS:
 
 ---
 
-### ➤ **O(n log n)**
+### ➤ **O(n log n)** 🙂
 
 * Exemplo: Merge Sort, Quick Sort (caso médio), Heap Sort.
 * Com 1024 valores → ~10.240 operações.
@@ -128,7 +128,7 @@ OBS:
 
 ---
 
-## 📊 Cheat sheet rápido
+## 📊 Direto ao ponto
 
 |    Notação | Crescimento  | Exemplo típico  |
 | ---------: | ------------ | --------------- |
@@ -211,15 +211,3 @@ users
 * Tem chamadas de banco/API dentro de loops?
 * Estou iterando o mesmo array várias vezes?
 * Posso usar `Set`, `Map` ou outra estrutura melhor?
-
----
-
-## 🧠 Conclusão
-
-Você **não precisa decorar Big O** para ser um bom dev.
-
-Mas entender **como seu código cresce** te ajuda a:
-
-* evitar gargalos
-* escrever códigos mais sólidos
-* tomar melhores decisões técnicas
